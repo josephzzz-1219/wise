@@ -30,7 +30,7 @@ DEMO_PRODUCTS = [
 TARGET_STORES = [
     ("WELLCOME", "wellcome"),
     ("PARKNSHOP", "pns"),
-    ("AEON", "aeon"),
+    ("JASONS", "marketplace"),
 ]
 
 def write_demo_products():
